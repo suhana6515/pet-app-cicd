@@ -3,7 +3,7 @@ import LoginPage from "./pages/LoginPage";
 import RegisterPage from "./pages/RegisterPage";
 import NavBar from "./components/NavBar";
 import "./App.css";
-import PetSetup from "./pages/petSetup";
+import PetSetup from "./pages/PetSetup";
 import PetDashboard from "./pages/PetDashboard";
 import { useAuth } from "./context/AuthContext";
 
