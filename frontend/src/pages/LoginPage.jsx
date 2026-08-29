@@ -129,9 +129,7 @@ function LoginPage() {
         <div className="pixel-top-decoration">♡ ♡ ♡</div>
 
         <div className="pixel-auth-header">
-          <h1 className="pixel-title">
-            PIXEL PAWS
-          </h1>
+          <h1 className="pixel-title">PIXEL PAWS CI-CD</h1>
 
           <p className="pixel-subtitle">YOUR PIXEL PET COMPANION</p>
         </div>
